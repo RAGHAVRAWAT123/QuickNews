@@ -24,11 +24,11 @@ Welcome to NewsPortal, a dynamic news website powered by the [NewsAPI](https://n
 ## App In Action:
 
 
-- **Category Based/Change Theme:**
+- **Category Based/Change Theme**
 
 ![Platform Screenshot](images/category.png)
 
-- **Search on a particular topic:**
+- **Search on a particular topic**
 
 ![Platform Screenshot](images/topic.png)
 
@@ -47,7 +47,7 @@ Welcome to NewsPortal, a dynamic news website powered by the [NewsAPI](https://n
 
 3. Obtain your API key from NewsAPI and replace YOUR_API_KEY in the scripts.js file with your actual API key.
 
-    const apiKey = 'YOUR_API_KEY';
-    const apiUrl = ' Replace with your NewsAPI URL'; 
+       const apiKey = 'YOUR_API_KEY';
+       const apiUrl = ' Replace with your NewsAPI URL'; 
 
 4. Open index.html in your web browser to view the news portal or run Go Live command on VS code.
